@@ -23,7 +23,7 @@ public class Polimorfismo {
      gato.comunicar();
      
      Cachorro dog = new Cachorro();
-     dog.comunicar();        
+     dog.comunicar();         
     }
     
 }
